@@ -30,7 +30,7 @@ class AdvCalc extends Calc
 	public void show()
 	{
 		System.out.println("By John");
-	
+	}
 }
 
 	
